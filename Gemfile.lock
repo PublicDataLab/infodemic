@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/densitydesign/pdatalab.git
-  revision: e003d90458b9b148d9d99a30774d921b4e640bb2
+  revision: 6bf99c44a77a05f0d7a9bc5e605148b0e067814e
   specs:
     pdatalab (0.1.1)
       jekyll (~> 4.1)
