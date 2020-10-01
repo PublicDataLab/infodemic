@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Responding to the World Health Organisation’s warning that misinformation related to COVID-19 constitutes an ‘infodemic’, this project studies conspiracy theories as a particularly harmful kind of misinformation.
+Responding to the World Health Organisation’s warning that misinformation related to COVID-19 constitutes an [‘infodemic’](https://www.who.int/news-room/feature-stories/detail/immunizing-the-public-against-misinformation), this project studies conspiracy theories as a particularly harmful kind of misinformation.
 
 The research will lead to improved strategies for combatting the spread of conspiracy theories in the pandemic. It will use methods from digital humanities and cultural studies to map how narratives circulate in the online environment during the crisis.
 
