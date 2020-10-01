@@ -2,7 +2,6 @@
 layout: post
 title:  "Infodemic: COVID-19 Conspiracy Theories"
 date:   2020-09-30 13:31:47 +0100
-categories: jekyll update
 ---
 Welcome to the blog for the Arts and Humanities Research Council funded
 project, “Infodemic”. Why “infodemic”? The Director General of the World
