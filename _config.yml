@@ -39,18 +39,25 @@ color: midnight
 author:
   - name: University of Manchester
     logo: "https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png"
+    url: "https://www.manchester.ac.uk/"
   - name: King’s College London
     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/King%27s_College_London_logo.svg/1280px-King%27s_College_London_logo.svg.png"
+    url: "https://www.kcl.ac.uk/ddh"
   - name: University of Amsterdam
     logo: "https://study-eu.s3.amazonaws.com/uploads/university/uva-university-of-amsterdam-533-logo.png"
+    url: "https://www.uva.nl/en"
   - name: OI Lab
     logo: "https://zenodo.org/api/files/00000000-0000-0000-0000-000000000000/oilab/logo.png"
+    url: "https://oilab.nl/"
   - name: DensityDesign Lab
     logo: "http://densitydesign.org/wp-content/themes/whiteasmilk/img/logo_density.svg"
+    url: "http://densitydesign.org/"
   - name: Public Data Lab
     logo: "https://www.publicdatalab.org/imgs/publicdatalab-logo.svg"
+    url: "http://publicdatalab.org/"
   - name: Arts and Humanities Research Council
     logo: "https://www.publicengagement.ac.uk/sites/default/files/styles/content_width/public/job/ahrc-horiz_logo-blue.png?itok=busgVRw8"
+    url: "https://ahrc.ukri.org/"
 
 participants:
   - name: Peter Knight
