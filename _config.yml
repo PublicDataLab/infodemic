@@ -38,25 +38,25 @@ color: midnight
 
 author:
   - name: University of Manchester
-    logo: "/assets/images/logos/manchester.png"
+    logo: "http://infodemic.eu/assets/images/logos/manchester.png"
     url: "https://www.manchester.ac.uk/"
   - name: King’s College London
-    logo: "assets/images/logos/kcl.png"
+    logo: "http://infodemic.eu/assets/images/logos/kcl.png"
     url: "https://www.kcl.ac.uk/ddh"
   - name: University of Amsterdam
-    logo: "assets/images/logos/uva.png"
+    logo: "http://infodemic.eu/assets/images/logos/uva.png"
     url: "https://www.uva.nl/en"
   - name: OI Lab
-    logo: "assets/images/logos/oilab.png"
+    logo: "http://infodemic.eu/assets/images/logos/oilab.png"
     url: "https://oilab.nl/"
   - name: DensityDesign Lab
-    logo: "assets/images/logos/density.svg"
+    logo: "http://infodemic.eu/assets/images/logos/density.svg"
     url: "http://densitydesign.org/"
   - name: Public Data Lab
-    logo: "assets/images/logos/pdl.svg"
+    logo: "http://infodemic.eu/assets/images/logos/pdl.svg"
     url: "http://publicdatalab.org/"
   - name: Arts and Humanities Research Council
-    logo: "assets/images/logos/ahrc.png"
+    logo: "http://infodemic.eu/assets/images/logos/ahrc.png"
     url: "https://ahrc.ukri.org/"
 
 participants:
