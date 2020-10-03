@@ -283,4 +283,5 @@ economic, health and political crises, for us to consider the
 astonishing hold conspiracy theories can have on the popular (and often
 populist) imagination.
 
+
 *This post is published under the terms of the [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence.*
