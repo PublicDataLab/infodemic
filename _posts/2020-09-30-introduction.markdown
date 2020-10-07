@@ -89,12 +89,8 @@ OILab will be collecting and analysing data scraped from various social
 media platforms as well as monitoring the flow of conspiracist ideas
 between mainstream platforms and the “deep vernacular web” (anonymous
 forums and image boards like 8kun and 4chan). The OILab has already held
-one data sprint with students (over the Summer of 2020). It conducted
-preliminary research on our growing database and produced two
-reports—one on what they name “conspiracy tribes” and another on the
-[deplatforming of COVID-19 conspiracy
-theories](https://wiki.digitalmethods.net/Dmi/SummerSchool2020ModeratingCovidMisinfo).
-We will be drawing from and building on these in the coming months.
+one data sprint with students (over the Summer of 2020). It conducted preliminary research on our growing database and produced two reports—one on different conspiracy camps and another on the [deplatforming of COVID-19 conspiracy
+theories](https://wiki.digitalmethods.net/Dmi/SummerSchool2020ModeratingCovidMisinfo). We will be drawing from and building on these in the coming months.
 
 While we will have more to say about the potential pitfalls of
 conducting polls about conspiracy theories in later posts, the figures
