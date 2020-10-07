@@ -26,6 +26,11 @@ Peter Knight is a [professor of American Studies at the University of Manchester
 
 Emillie de Keulenaar’s research focuses on the role of deep disagreements in the production of misinformation, as well as the history of moderating hate speech and other problematic information.
 
+### Eleni Maragkou (Research Associate) – MA candidate in Media Studies at the University of Amsterdam.
+
+Eleni Maragkou is a research master’s student at the University of Amsterdam, specializing in new media and digital culture, and an intern at the Institute of Network Cultures. Her research interests lie at the intersection of media, cultural, and platform studies, with a particular focus on online subcultures, algorithmic inequality, gender, and the platformization of cultural production.
+
+
 ### Sean O’Brien (Research Associate) - Lecturer in Modern and Contemporary Literature, Birkbeck
 
 [Sean O’Brien](http://www.bbk.ac.uk/english/our-staff/full-time-academic-staff/sean-obrien) is a research assistant for the Infodemic Project. Beyond the project, his work focuses on precarity and postwar American literature and cinema. He has been published in *Cultural Critique*, *Discourse*, *Science Fiction Studies*, *Crossings*, and *The Bloomsbury Companion to Marx*.
