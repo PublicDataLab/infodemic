@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# People
+
 ### Peter Knight (Principal Investigator) - Professor of American Studies, University of Manchester
 
 Peter Knight is a [professor of American Studies at the University of Manchester](https://www.research.manchester.ac.uk/portal/peter.knight.html), and currently visiting professor at Leiden University. He is the Principal Investigator on the Infodemic project, and directed the [COMPACT network](https://conspiracytheories.eu) of conspiracy theory researchers. He is the author of *Conspiracy Culture* (2000), *The Kennedy Assassination* (2007) and *Reading the Market* (2016), and co-editor of the *Routledge Handbook of Conspiracy Theories* (2020).
