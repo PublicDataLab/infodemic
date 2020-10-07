@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: People
 ---
-
-# People
 
 ### Peter Knight (Principal Investigator) - Professor of American Studies, University of Manchester
 
