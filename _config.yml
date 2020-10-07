@@ -23,7 +23,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Responding to the World Health Organisation's warning that misinformation related to COVID-19 constitutes an ‘infodemic’, this project studies conspiracy theories associated with the pandemic and their circulation online.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://infodemic.eu/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
