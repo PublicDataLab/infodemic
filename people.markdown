@@ -26,10 +26,13 @@ Peter Knight is a [professor of American Studies at the University of Manchester
 
 Emillie de Keulenaar’s research focuses on the role of deep disagreements in the production of misinformation, as well as the history of moderating hate speech and other problematic information.
 
+### Thais Lobo (Research Associate) - MA candidate in Digital Humanities at King’s College London
+
+Thais Lobo is an MA candidate and research/teaching assistant at the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh), [King’s College London](https://www.kcl.ac.uk/). Her research interests are on the use of digital methods to explore the circulation of problematic content. She has a background as a multimedia journalist in Brazilian news outlets.
+
 ### Eleni Maragkou (Research Associate) – MA candidate in Media Studies at the University of Amsterdam.
 
 Eleni Maragkou is a research master’s student at the University of Amsterdam, specializing in new media and digital culture, and an intern at the Institute of Network Cultures. Her research interests lie at the intersection of media, cultural, and platform studies, with a particular focus on online subcultures, algorithmic inequality, gender, and the platformization of cultural production.
-
 
 ### Sean O’Brien (Research Associate) - Lecturer in Modern and Contemporary Literature, Birkbeck
 
