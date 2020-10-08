@@ -22,9 +22,9 @@ Peter Knight is a [professor of American Studies at the University of Manchester
 
 [Jonathan Gray](https://www.kcl.ac.uk/people/dr-jonathan-gray) is Lecturer in Critical Infrastructure Studies at the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh), [King’s College London](https://www.kcl.ac.uk/), where he is currently writing a book on data worlds. He is also Cofounder of the [Public Data Lab](http://publicdatalab.org/); and Research Associate at the [Digital Methods Initiative](https://digitalmethods.net/) (University of Amsterdam) and the [médialab](https://medialab.sciencespo.fr/) (Sciences Po, Paris).
 
-### Gabriele Colombo (Research Associate) – Researcher at DensityDesign Lab, Politecnico di Milano
+### Gabriele Colombo (Research Associate) – Research Fellow at DensityDesign Research Lab, Politecnico di Milano
 
-[Gabriele Colombo](https://densitydesign.org/person/gabriele-colombo/) is Designer and Researcher at [DensityDesign Lab](http://densitydesign.org/) at the Politecnico di Milano. His research interests include visual methods, data and information visualisation, and digital methods. His recent work focuses on visual strategies for the analysis of digital images for social and cultural research.
+Gabriele Colombo is [Research Fellow](https://densitydesign.org/person/gabriele-colombo/) and [Adjunct Professor](https://bit.ly/3d7qbQD) at DensityDesign Research Lab, Politecnico di Milano. He is also a postdoctoral researcher in the European research project INCOMMON, hosted by [IUAV, University of Venice](http://www.iuav.it/), and Research Associate at the [Visual Methodologies Collective](https://visualmethodologies.org/) at the Amsterdam University of Applied Sciences.
 
 ### Emillie de Keulenaar (Research Associate) - PhD researcher at the Digital Democracies (Simon Fraser University) and Open Intelligence Labs (University of Amsterdam)
 
@@ -41,6 +41,10 @@ Eleni Maragkou is a research master’s student at the University of Amsterdam, 
 ### Sean O’Brien (Research Associate) - Lecturer in Modern and Contemporary Literature, Birkbeck
 
 [Sean O’Brien](http://www.bbk.ac.uk/english/our-staff/full-time-academic-staff/sean-obrien) is a research assistant for the Infodemic Project. Beyond the project, his work focuses on precarity and postwar American literature and cinema. He has been published in *Cultural Critique*, *Discourse*, *Science Fiction Studies*, *Crossings*, and *The Bloomsbury Companion to Marx*.
+
+### Richard Rogers (Research Associate) -
+
+[Richard Rogers](https://www.uva.nl/profiel/r/o/r.a.rogers/r.a.rogers.html) is University Professor and holds the Chair in New Media & Digital Culture at the [University of Amsterdam](https://www.uva.nl/). He is also Director of the [Govcom.org Foundation](http://govcom.org/) (Amsterdam) and the [Digital Methods Initiative](https://digitalmethods.net/).
 
 ### Tommaso Venturini (Research Associate) – Researcher at CNRS Centre for Internet and Society
 
