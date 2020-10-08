@@ -22,7 +22,11 @@ Peter Knight is a [professor of American Studies at the University of Manchester
 
 [Jonathan Gray](https://www.kcl.ac.uk/people/dr-jonathan-gray) is Lecturer in Critical Infrastructure Studies at the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh), [King’s College London](https://www.kcl.ac.uk/), where he is currently writing a book on data worlds. He is also Cofounder of the [Public Data Lab](http://publicdatalab.org/); and Research Associate at the [Digital Methods Initiative](https://digitalmethods.net/) (University of Amsterdam) and the [médialab](https://medialab.sciencespo.fr/) (Sciences Po, Paris).
 
-### Emillie de Keulenaar (Research Associate) - PhD researcher at the Digital Democracies (SFU) and Open Intelligence Labs (UvA)
+### Gabriele Colombo (Research Associate) – Researcher at DensityDesign Lab, Politecnico di Milano
+
+[Gabriele Colombo](https://densitydesign.org/person/gabriele-colombo/) is Designer and Researcher at [DensityDesign Lab](http://densitydesign.org/) at the Politecnico di Milano. His research interests include visual methods, data and information visualisation, and digital methods. His recent work focuses on visual strategies for the analysis of digital images for social and cultural research.
+
+### Emillie de Keulenaar (Research Associate) - PhD researcher at the Digital Democracies (Simon Fraser University) and Open Intelligence Labs (University of Amsterdam)
 
 Emillie de Keulenaar’s research focuses on the role of deep disagreements in the production of misinformation, as well as the history of moderating hate speech and other problematic information.
 
