@@ -35,6 +35,11 @@ Eleni Maragkou is a research master’s student at the University of Amsterdam, 
 
 [Sean O’Brien](http://www.bbk.ac.uk/english/our-staff/full-time-academic-staff/sean-obrien) is a research assistant for the Infodemic Project. Beyond the project, his work focuses on precarity and postwar American literature and cinema. He has been published in *Cultural Critique*, *Discourse*, *Science Fiction Studies*, *Crossings*, and *The Bloomsbury Companion to Marx*.
 
+### Tommaso Venturini (Research Associate) – Researcher at CNRS Centre for Internet and Society
+
+[Tommaso Venturini](http://www.tommasoventurini.it/) is researcher at the [CNRS Centre for Internet and Society](https://cis.cnrs.fr/). He is also associate researcher of the [médialab of Sciences Po Paris](https://medialab.sciencespo.fr/) and founding member of the [Public Data Lab](https://www.publicdatalab.org/).
+
+
 ### Fabio Votta (Research Associate) - PhD researcher at the Information, Communication & The Data Society (ICDS) research initiative (University of Amsterdam)
 
 [Fabio Votta](http://www.favstats.eu/)’s research focuses on studying algorithms, social media platforms and the communication of extremist and misinformation actors online. A social scientist by training and a passionate programmer, he seeks to address research questions at the intersection of the computational and social sciences.
