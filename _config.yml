@@ -55,6 +55,9 @@ author:
   - name: DensityDesign Lab
     logo: "http://infodemic.eu/assets/images/logos/density.svg"
     url: "http://densitydesign.org/"
+  - name: CNRS Center For Internet and Society
+    logo: "http://infodemic.eu/assets/images/logos/cnrs_cis.png"
+    url: "http://cis.cnrs.fr/"
   - name: Public Data Lab
     logo: "http://infodemic.eu/assets/images/logos/pdl.svg"
     url: "http://publicdatalab.org/"
