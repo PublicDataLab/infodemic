@@ -18,14 +18,13 @@ Through the conspiracist lens, legitimate questions about the origin of the viru
 The question that guides conspiracy theories—Who benefits?—is answered in this case by looking towards the global superpowers, China and the US. Unfounded accusations that COVID-19 was manufactured by China have been aired by fringe organisations and people in powerful positions alike. One video making this claim published by the _Epoch Times_, a site started by Chinese-Americans associated with Falun Gong, was viewed almost 70 million times on Facebook according to a fact-checking report on the [BBC](https://www.bbc.co.uk/news/52310194). The theory was repeated in many quarters including this [episode](https://videopress.com/v/mZrPSk7f) of [“Get Off My Lawn”](https://censored.tv/watch/shows/get-off-my-lawn/episode/s02e136), by founder of the far right group, the Proud Boys, Gavin McInnes. In this episode, McInnes interviews  Shiva Ayyadurai who makes the claim that Covid-19 is a Chinese bioweapon.
 
 
-![alt_text](http://infodemic.eu/assets/images/post3/image1.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image7.png)
 
 *Screen grab from [https://censored.tv/watch/shows/get-off-my-lawn/episode/s02e136](https://censored.tv/watch/shows/get-off-my-lawn/episode/s02e136) Originally aired March 11, 2020.*
 
 The [first post](https://qposts.online/post/3896) about the coronavirus from Q (who spawned the [QAnon movement](https://www.theatlantic.com/newsletters/archive/2020/05/qanon-q-pro-trump-conspiracy/611722/)) appeared on March 23, 2020, endorsing, in suggestive fragments at least, the conspiracy theory that COVID-19 is a [bioweapon](http://conspiracytheories.eu/) produced by China and the US Democrats in a plot to bring down Trump.
 
-![alt_text](http://infodemic.eu/assets/images/post3/image2.png)
-
+![alt_text](http://infodemic.eu/assets/images/post3/image9.png)
 
 *Screen grab from www.qposts.online. Original post from 8kun/qresearch, 11.13 GMT March 23, 2020.*
 
@@ -41,7 +40,7 @@ But theories of American culpability don’t only come from Chinese accusers. A 
 
 Within the heated, polarised climate of US domestic politics, some conspiracy theories make the fallacious claim that COVID-19 is not a real virus and is, rather, a hoax invented by the Democrats to destroy the economy and therefore weaken Trump’s chances in the November 2020 elections. A slight variation of this theory is that it is the so-called deep state that is orchestrating the hoax. The deep state is thought to be a substrate of government bureaucracy that operates beyond the transparency mechanisms and checks and balances that elected politicians are subject to and is imagined to be where the real power lies. Trump has long accused the deep state of acting against him. In relation to COVID-19 vaccines, he [tweeted](https://twitter.com/realDonaldTrump/status/1297138862108663808) the following on August 22, 2020:
 
-![alt_text](http://infodemic.eu/assets/images/post3/image3.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image4.png)
 
 Whereas the “deep state” has been imagined as a shadowy group of operators in conspiracy fictions (think about the [cigarette smoking man](https://www.youtube.com/watch?v=qr_2SpROMvk) in _The X-Files_, for example), Trump loosens the definition to besmirch and blame regular government agencies when they act against his wishes or make his government look incompetent.
 
@@ -55,7 +54,7 @@ Some conspiracy theorists have pointed to existing cleaning products and vaccine
 
 This conspiracy theory claims that Gates’ motive is to use a vaccination program to implant digital microchips that will somehow track and control people. In the widely viewed misinformation video, _[Plandemic](https://plandemicseries.com/)_, and its sequel _Plandemic: Indoctornation_ featuring [Judy Mikovits](https://en.wikipedia.org/wiki/Judy_Mikovits), a discredited former medical researcher, falsely suggests that Gates has much to gain, in political and financial terms, from a mass vaccination programme. 
 
-![alt_text](http://infodemic.eu/assets/images/post3/image4.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image6.png)
 
 *Meme circulating on Instagram*
 
@@ -64,7 +63,7 @@ This conspiracy theory claims that Gates’ motive is to use a vaccination progr
 
 Rather than Bill Gates, this theory points more generally to a vague “global government” or “New World Order” that will administer nanochip technologies via a vaccine in order to erode civil liberties. Such fears go some way to explaining why anti-lockdown protests with conspiracist presence fashion their claims in the language of rights and freedom.
 
-![alt_text](http://infodemic.eu/assets/images/post3/image5.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image2.png)
 
 *Meme circulating on Instagram*
 
@@ -75,7 +74,7 @@ Some followers of QAnon claim that the global elite thrive on the drug [adrenoch
 
 Theories about adrenochrome appear in QAnon discourse before the COVID-19 pandemic but have adapted to the new crisis. In recent incarnations, this conspiracy theory claims that the drug is manufactured in Wuhan by a facility funded by a [favourite conspiracy theory target](https://www.mediamatters.org/qanon-conspiracy-theory/members-qanon-facebook-groups-are-calling-execution-george-soros), George Soros. The mention of Soros in this context draws on established antisemitic tropes, not least a history of [“blood libel,”](https://newrepublic.com/article/159529/qanon-blood-libel-satanic-panic) which accused Jews of using the blood of Christian children in religious rituals. Of note is the way in which the focus on the sacrifice of children, and loose talk about child trafficking and paedophilia, has enabled the influence of QAnon to spread to new demographics, particularly women.
 
-![alt_text](http://infodemic.eu/assets/images/post3/image6.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image8.png)
 
 *@JMiano58, [Twitter](https://twitter.com/JMiano58/status/1238688041407066115), 14 March 2020*
 
@@ -87,11 +86,11 @@ The 5G conspiracy theory is notable for the way in which it spilled over into ph
 
 Of importance is the way in which 5G conspiracy theories have been woven into larger cognitive maps that depict the collusion of big pharma, big tech, and science with the goal of depopulation.
 
-![alt_text](http://infodemic.eu/assets/images/post3/image7.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image1.png)
 
 [Image shared by [wholyself](https://www.instagram.com/p/B_tOLxznsUR/), Instagram, May 3rd, 2020.]
 
-![alt_text](http://infodemic.eu/assets/images/post3/image8.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image3.png)
 
 *Facebook post, [Myreon Carter](https://www.facebook.com/mcon.thabeat.7), 8 March 2020. Sourced by [https://www.abc.net.au/news/2020-04-09/corona-5-a/12130944?nw=0](https://www.abc.net.au/news/2020-04-09/corona-5-a/12130944?nw=0)*
 
@@ -101,6 +100,6 @@ Some pharmaceutical companies, including AstraZeneca and Johnson & Johnson, have
 
 Making health and medicine subject to competitive open markets perhaps produces conspiracist effects. Not satisfied with the ordinary ways in which the worst excesses of capitalism exploit people, conspiracy theorists push further to falsely suggest not merely that pharmaceutical companies will profit from the pandemic, but that they _caused_ it in the first place for that very reason. There are no lucky windfalls in conspiracism.
 
-![alt_text](http://infodemic.eu/assets/images/post3/image9.png)
+![alt_text](http://infodemic.eu/assets/images/post3/image5.png)
 
 *Facebook, [Andrea De Saint](https://www.facebook.com/andreea.desaint/posts/220022479456056), 23 September 2020*
