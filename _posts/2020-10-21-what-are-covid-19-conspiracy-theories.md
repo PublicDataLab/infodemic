@@ -76,7 +76,7 @@ Theories about adrenochrome appear in QAnon discourse before the COVID-19 pandem
 
 ![alt_text](http://infodemic.eu/assets/images/post3/image8.png)
 
-*@JMiano58, [Twitter](https://twitter.com/JMiano58/status/1238688041407066115), 14 March 2020*
+*Twitter post, 14 March 2020*
 
 ## 6. COVID-19 is actually caused by 5G and is a pretext for genocide by vaccine
 
@@ -88,11 +88,11 @@ Of importance is the way in which 5G conspiracy theories have been woven into la
 
 ![alt_text](http://infodemic.eu/assets/images/post3/image1.png)
 
-[Image shared by [wholyself](https://www.instagram.com/p/B_tOLxznsUR/), Instagram, May 3rd, 2020.]
+*Image shared on Instagram, May 3rd, 2020.*
 
 ![alt_text](http://infodemic.eu/assets/images/post3/image3.png)
 
-*Facebook post, [Myreon Carter](https://www.facebook.com/mcon.thabeat.7), 8 March 2020. Sourced by [https://www.abc.net.au/news/2020-04-09/corona-5-a/12130944?nw=0](https://www.abc.net.au/news/2020-04-09/corona-5-a/12130944?nw=0)*
+*Facebook post, 8 March 2020. Sourced by [https://www.abc.net.au/news/2020-04-09/corona-5-a/12130944?nw=0](https://www.abc.net.au/news/2020-04-09/corona-5-a/12130944?nw=0)*
 
 ## 7. COVID-19 is a plot by big pharma to increase its power and profit from treatments and vaccines
 
@@ -102,4 +102,4 @@ Making health and medicine subject to competitive open markets perhaps produces 
 
 ![alt_text](http://infodemic.eu/assets/images/post3/image5.png)
 
-*Facebook, [Andrea De Saint](https://www.facebook.com/andreea.desaint/posts/220022479456056), 23 September 2020*
+*Facebook, post, 23 September 2020*
