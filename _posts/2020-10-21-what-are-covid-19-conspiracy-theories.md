@@ -102,4 +102,5 @@ Making health and medicine subject to competitive open markets perhaps produces 
 ![alt_text](http://infodemic.eu/assets/images/post3/image5.png)
 
 *Facebook, post, 23 September 2020*
+
 *This post is published under the terms of the [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence.*
