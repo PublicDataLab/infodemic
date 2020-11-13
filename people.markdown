@@ -22,7 +22,7 @@ Peter Knight is a [professor of American Studies at the University of Manchester
 
 [Jonathan Gray](https://www.kcl.ac.uk/people/dr-jonathan-gray) is Lecturer in Critical Infrastructure Studies at the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh), [King’s College London](https://www.kcl.ac.uk/), where he is currently writing a book on data worlds. He is also Cofounder of the [Public Data Lab](http://publicdatalab.org/); and Research Associate at the [Digital Methods Initiative](https://digitalmethods.net/) (University of Amsterdam) and the [médialab](https://medialab.sciencespo.fr/) (Sciences Po, Paris).
 
-### Marc Tuters - Assistant Professor, University of Amsterdam
+### Marc Tuters (Co-Investigator) - Assistant Professor, University of Amsterdam
 
 [Marc Tuters](https://www.uva.nl/en/profile/t/u/m.d.tuters/m.d.tuters.html) is Assistant Professor at the Media Studies Department, University of Amsterdam. His work explores radical political subcultures online, including with "digital methods" in affiliation with researchers at the Open Intelligence Lab and the Digital Methods Initiative. He has given recent talks on new-right "conspiracism" and "the deep vernacular web" at [De Balie](https://debalie.nl/programma/the-spaces-of-the-european-far-right/) (Amsterdam, NL), the [IMPAKT festival](https://impakt.nl/) (Utrecht, NL) and the [Centre for Investigative Journalism](https://tcij.org/logan-symposium/conspiracy/) (London, UK).
 
