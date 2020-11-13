@@ -22,6 +22,10 @@ Peter Knight is a [professor of American Studies at the University of Manchester
 
 [Jonathan Gray](https://www.kcl.ac.uk/people/dr-jonathan-gray) is Lecturer in Critical Infrastructure Studies at the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh), [King’s College London](https://www.kcl.ac.uk/), where he is currently writing a book on data worlds. He is also Cofounder of the [Public Data Lab](http://publicdatalab.org/); and Research Associate at the [Digital Methods Initiative](https://digitalmethods.net/) (University of Amsterdam) and the [médialab](https://medialab.sciencespo.fr/) (Sciences Po, Paris).
 
+### Marc Tuters - Assistant Professor, University of Amsterdam
+
+[Marc Tuters](https://www.uva.nl/en/profile/t/u/m.d.tuters/m.d.tuters.html) is Assistant Professor at the Media Studies Department, University of Amsterdam. His work explores radical political subcultures online, including with "digital methods" in affiliation with researchers at the Open Intelligence Lab and the Digital Methods Initiative. He has given recent talks on new-right "conspiracism" and "the deep vernacular web" at [De Balie](https://debalie.nl/programma/the-spaces-of-the-european-far-right/) (Amsterdam, NL), the [IMPAKT festival](https://impakt.nl/) (Utrecht, NL) and the [Centre for Investigative Journalism](https://tcij.org/logan-symposium/conspiracy/) (London, UK).
+
 ### Gabriele Colombo – Research Fellow at DensityDesign Research Lab, Politecnico di Milano
 
 Gabriele Colombo is [Research Fellow](https://densitydesign.org/person/gabriele-colombo/) and [Adjunct Professor](https://bit.ly/3d7qbQD) at DensityDesign Research Lab, Politecnico di Milano. He is also a postdoctoral researcher in the European research project INCOMMON, hosted by [IUAV, University of Venice](http://www.iuav.it/), and Research Associate at the [Visual Methodologies Collective](https://visualmethodologies.org/) at the Amsterdam University of Applied Sciences.
@@ -29,6 +33,10 @@ Gabriele Colombo is [Research Fellow](https://densitydesign.org/person/gabriele-
 ### Emillie de Keulenaar - PhD researcher at the Digital Democracies (Simon Fraser University) and Open Intelligence Labs (University of Amsterdam)
 
 Emillie de Keulenaar’s research focuses on the role of deep disagreements in the production of misinformation, as well as the history of moderating hate speech and other problematic information.
+
+### Ivan Kisjes – Programmer on CREATE project, University of Amsterdam
+
+Ivan Kisjes studied archaeology at the University of Leiden. Currently he is working as a programmer in the CREATE project at the University of Amsterdam, processing and analysing datasets from many disciplines in the humanities. He is also involved in the Amsterdam and European Time Machine projects and supports research at the Open Intelligence Labs.
 
 ### Thais Lobo - MA candidate in Digital Humanities at King’s College London
 
