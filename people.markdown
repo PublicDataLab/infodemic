@@ -61,3 +61,7 @@ Eleni Maragkou is a research master’s student at the University of Amsterdam, 
 ### Fabio Votta - PhD researcher at the Information, Communication & The Data Society (ICDS) research initiative (University of Amsterdam)
 
 [Fabio Votta](http://www.favstats.eu/)’s research focuses on studying algorithms, social media platforms and the communication of extremist and misinformation actors online. A social scientist by training and a passionate programmer, he seeks to address research questions at the intersection of the computational and social sciences.
+
+### Esther Weltevrede – Assistant Professor in New Media & Digital Culture, University of Amsterdam
+
+Esther Weltevrede is an assistant professor in New Media & Digital Culture at the University of Amsterdam. She is a founding member of the [Digital Methods Initiative](https://digitalmethods.net/) and the [App Studies Initiative](http://appstudies.org/) and an affiliated researcher with the [Digital Democracies Institute](https://digitaldemocracies.org/). 
