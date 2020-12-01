@@ -50,11 +50,11 @@ We are describing the material conditions and ideologies that might make it less
 
 When we consider high levels of income inequality in the UK and US, it is easy to see why “elites” often become the target of conspiracy theorising. Since the 1980s, income inequality has remained high in the UK and has been steadily growing in the US. Both countries score highly on a sliding scale that uses the so-called Gini co-efficient. The Gini coefficient is used by some economists to compare, as the Organisation for Economic Co-operation and Development (OECD) explains, “the cumulative proportions of the population against cumulative proportions of income they receive. It ranges between 0 in the case of perfect equality and 1 in the case of perfect inequality” (2020).
 
-![alt_text](http://infodemic.eu/assets/images/Fig 1 context.png)
+![alt_text](http://infodemic.eu/assets/images/Fig1context.png)
 
 *Fig. 1: [OECD data]( https://data.oecd.org/inequality/income-inequality.htm#indicator-chart) showing the Gini co-efficient of different countries* 
 
-![alt_text](http://infodemic.eu/assets/images/Fig 2 context.png)
+![alt_text](http://infodemic.eu/assets/images/Fig2context.png)
 
 *Fig. 2: Graph from [*The Guardian*]( https://www.theguardian.com/inequality/2019/may/14/britain-risks-heading-to-us-levels-of-inequality-warns-top-economist) showing Britain’s rise in income inequality in the 1980s*
 
@@ -74,7 +74,7 @@ Populist forces have been resurgent in Europe, the Nordic countries, South Ameri
 
 While populist rhetoric does not always slide into conspiracy theory, and some argue that “conspiracy theorists usually constitute a significant minority within populist movements” (Bergmann and Butter 2020), it’s clear that conspiracy theory is a discourse that populists draw on. Erikkur Bergmann and Michael Butter use the term “conspiracist populism” to indicate where and when the styles coincide. Some research approaches the issue slightly differently, claiming that people with populist views are more likely to believe in conspiracy theories.
 
-![alt_text](http://infodemic.eu/assets/images/Fig 3 Context.png)
+![alt_text](http://infodemic.eu/assets/images/Fig3Context.png)
 
 
 *Figure 3: From [The Guardian]( https://www.theguardian.com/world/2019/may/01/revealed-populists-more-likely-believe-conspiracy-theories-vaccines)*
