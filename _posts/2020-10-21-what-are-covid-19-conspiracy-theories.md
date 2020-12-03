@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are COVID-19 Conspiracy Theories?
+title: "What are COVID-19 Conspiracy Theories?"
 date: 2020-10-21 14:54 +0100
 ---
 
