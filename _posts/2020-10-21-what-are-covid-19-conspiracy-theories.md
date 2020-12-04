@@ -57,10 +57,11 @@ This conspiracy theory claims that Gates’ motive is to use a vaccination progr
 
 *Meme circulating on Instagram*
 
+Since details of the messenger RNA vaccine technology used in the Pfizer/BioNTech vaccine became known, some conspiracy theories have begun to erroneously claim that the vaccine will [alter human DNA](https://www.bbc.co.uk/news/54893437).
 
 ## 4. COVID-19 is part of a “global government” plot to take away civil liberties
 
-Rather than Bill Gates, this theory points more generally to a vague “global government” or “New World Order” that will administer nanochip technologies via a vaccine in order to erode civil liberties. Such fears go some way to explaining why anti-lockdown protests with conspiracist presence fashion their claims in the language of rights and freedom.
+Rather than Bill Gates, this theory points more generally to a vague “global government” or “New World Order” that will administer trackable nanochip technologies via a vaccine in order to erode civil liberties. Such fears go some way to explaining why anti-lockdown protests with conspiracist presence fashion their claims in the language of rights and freedom.
 
 ![alt_text](http://infodemic.eu/assets/images/post3/image2.png)
 
