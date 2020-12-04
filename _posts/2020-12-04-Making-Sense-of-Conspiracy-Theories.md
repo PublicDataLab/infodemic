@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Making Sense of Conspiracy Theories”
+title: Making Sense of Conspiracy Theories
 date: 2020-12-04 13:00 +0100
 ---
 
