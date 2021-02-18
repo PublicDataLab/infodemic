@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Monetise This! Conspiracy Entrepreneurs, Marketplace Bots, and Surveillance Capitalism”
+title: Monetise This! Conspiracy Entrepreneurs, Marketplace Bots, and Surveillance Capitalism
 date: 2021-02-17 16:47 +0100
 ---
 
