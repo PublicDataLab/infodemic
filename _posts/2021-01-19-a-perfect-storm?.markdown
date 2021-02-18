@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “A Perfect Storm?”
+title: A Perfect Storm?
 date: 2021-01-19 10:50 +0100
 ---
 
