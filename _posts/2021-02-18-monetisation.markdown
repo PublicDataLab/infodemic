@@ -137,7 +137,7 @@ Eatwell, Roger and Matthew Goodwin. 2018. National Populism: The Revolt Against 
 
 Gray, Jonathan. 2018. “Three Aspects of Data Worlds.” Krisis 1. https://archive.krisis.eu/three-aspects-of-data-worlds/ 
 
-Gray, Jonathan, Liliana Bounegru and Tomasso Venturini. 2020. “‘Fake news’ as Infrastructural Uncanny.” New Media and Society 22(2), 317–341. https://doi.org/10.1177/1461444819856912
+Gray, Jonathan, Liliana Bounegru and Tommaso Venturini. 2020. “‘Fake news’ as Infrastructural Uncanny.” New Media and Society 22(2), 317–341. https://doi.org/10.1177/1461444819856912
 
 Hofstadter, Richard. 1964. The Paranoid Style in American Politics and Other Essays. Cambridge, Mass.: Harvard University Press.
 
