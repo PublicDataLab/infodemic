@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The infodemic metaphor
+title: The Infodemic Metaphor
 date: 2021-04-08 16:00 +0100
 ---
 
