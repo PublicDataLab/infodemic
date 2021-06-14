@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “What if a conspiracy theory turns out to be true? The return of the lab leak theory”
+title: What if a conspiracy theory turns out to be true? The return of the lab leak theory
 date: 2021-06-14 12:47 +0100
 ---
 
@@ -49,7 +49,6 @@ When we look at the way the lab leak story was discussed on social media, it was
 ![alt_text](http://infodemic.eu/assets/images/Fig6Lableak.png)
 
 The turn to a gestural but all-encompassing conspiracism can in part by explained by the fact that the more complicated versions of the story (as told in lengthy, multi-part videos on YouTube or in long blog posts, websites and books) are often distilled down into a single meme. For example:
-
 ![alt_text](http://infodemic.eu/assets/images/Fig7Lableak.jpeg)
 
 ![alt_text](http://infodemic.eu/assets/images/Fig8Lableak.png)
@@ -57,7 +56,6 @@ The turn to a gestural but all-encompassing conspiracism can in part by explaine
 ![alt_text](http://infodemic.eu/assets/images/Fig9Lableak.png)
 
 ![alt_text](http://infodemic.eu/assets/images/Fig10Lableak.jpeg)
-
 In many cases, the specific lab leak theory is quickly glossed over, as it becomes inserted into a far larger story that the pandemic was planned in advance by an all-powerful conspiracy, whose ultimate aim is to control the world through implanting chips in the vaccine, or to engage in mass depopulation. In effect, the idea of an accidental leak is replaced by the conviction that the release of the virus—perhaps made to look accidental—was part of an expertly orchestrated master plan for world domination (which often have antisemitic undertones).
 
 On its own, the lab leak theory might be plausible. But the way it is discussed on social media last spring is often very much part of recognisable conspiracy culture, demonstrating many of the features of conspiracism we outline above. The characterisation of much of this online discussion as conspiracy theory remains true, even if the lab leak story is eventually confirmed. (However, it is important to note that we are unlikely to ever get final, definitive proof that would satisfy everyone. After all, conspiracy theorists are distrustful of all experts and authorities, so a definitive finding one way or the other by the US or Chinese government, or even by seemingly objective and neutral scientists, is unlikely to persuade them. And this is also true for those of us who are not committed conspiracy theorists: by now we have learned to be suspicious of supposedly authoritative findings by intelligence agencies, as we’ll discuss in more detail below.)
