@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You’ll NEVER GUESS How Conspiracy Theory is Being Used on YouTube!!!: Conspiracy Theory Signalling and its Consequences"
+title: "You’ll NEVER GUESS How Conspiracy Theory is Being Used on YouTube!!!: Conspiracy Theory Signalling"
 date: 2021-07-12 14:10 +0100
 ---
 
